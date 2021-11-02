@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="contenedor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="772.0" prefWidth="1258.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Vista.Pantalla">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="669.0" layoutX="714.0" layoutY="80.0" stroke="BLACK" strokeType="INSIDE" width="524.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="669.0" layoutX="20.0" layoutY="80.0" stroke="BLACK" strokeType="INSIDE" width="524.0" />
+      <Text layoutX="576.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pelea">
+         <font>
+            <Font name="Broadway" size="35.0" />
+         </font>
+      </Text>
+      <Pane layoutX="53.0" layoutY="78.0" prefHeight="155.0" prefWidth="142.0">
+         <children>
+            <Text fx:id="arte1J1" layoutX="38.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Arte1" textAlignment="CENTER">
+               <font>
+                  <Font name="Cooper Black" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="at1art1J1" layoutX="39.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at2art1J1" layoutX="39.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at3art1J1" layoutX="39.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <Pane layoutX="211.0" layoutY="78.0" prefHeight="155.0" prefWidth="142.0">
+         <children>
+            <Text fx:id="arte2J1" layoutX="38.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Arte1" textAlignment="CENTER">
+               <font>
+                  <Font name="Cooper Black" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="at1art2J1" layoutX="39.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at2art2J1" layoutX="39.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at3art2J1" layoutX="39.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <Pane layoutX="370.0" layoutY="78.0" prefHeight="155.0" prefWidth="142.0">
+         <children>
+            <Text fx:id="arte3J1" layoutX="38.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Arte1" textAlignment="CENTER">
+               <font>
+                  <Font name="Cooper Black" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="at1art3J1" layoutX="39.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at2art3J1" layoutX="39.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at3art3J1" layoutX="39.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <Pane layoutX="1064.0" layoutY="78.0" prefHeight="155.0" prefWidth="142.0">
+         <children>
+            <Text fx:id="arte3J2" layoutX="38.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Arte1" textAlignment="CENTER">
+               <font>
+                  <Font name="Cooper Black" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="at1art3J2" layoutX="39.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at2art3J2" layoutX="39.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at3art3J2" layoutX="39.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <Pane layoutX="905.0" layoutY="78.0" prefHeight="155.0" prefWidth="142.0">
+         <children>
+            <Text fx:id="arte2J2" layoutX="38.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Arte1" textAlignment="CENTER">
+               <font>
+                  <Font name="Cooper Black" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="at1art2J2" layoutX="39.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at2art2J2" layoutX="39.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at3art2J2" layoutX="39.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <Pane layoutX="747.0" layoutY="78.0" prefHeight="155.0" prefWidth="142.0">
+         <children>
+            <Text fx:id="arte1J2" layoutX="38.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Arte1" textAlignment="CENTER">
+               <font>
+                  <Font name="Cooper Black" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="at1art1J2" layoutX="39.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at2art1J2" layoutX="39.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="at3art1J2" layoutX="39.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataque 1" textAlignment="CENTER">
+               <font>
+                  <Font name="Eras Medium ITC" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <ComboBox fx:id="artesCBJ1" layoutX="155.0" layoutY="256.0" onAction="#ponerFoto" prefHeight="31.0" prefWidth="142.0" />
+      <Text layoutX="94.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Artes">
+         <font>
+            <Font name="Eras Medium ITC" size="19.0" />
+         </font>
+      </Text>
+      <ImageView fx:id="fotoArteJ1" fitHeight="117.0" fitWidth="167.0" layoutX="360.0" layoutY="213.0" pickOnBounds="true" preserveRatio="true" />
+      <Button layoutX="188.0" layoutY="363.0" mnemonicParsing="false" onAction="#generarAtaqueJ1" prefHeight="47.0" prefWidth="190.0" text="GENERAR ATAQUE">
+         <font>
+            <Font name="Elephant" size="15.0" />
+         </font>
+      </Button>
+      <TextArea fx:id="ataquesNormalesJ1" layoutX="62.0" layoutY="471.0" prefHeight="82.0" prefWidth="441.0" />
+      <Text fx:id="puntajeJ1" fill="#038a6f" layoutX="229.0" layoutY="590.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0 de 200">
+         <font>
+            <Font name="Harrington" size="29.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="ataquesEspecialesJ1" layoutX="62.0" layoutY="637.0" prefHeight="82.0" prefWidth="441.0" />
+      <Text layoutX="203.0" layoutY="624.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataques especiales">
+         <font>
+            <Font name="Eras Medium ITC" size="19.0" />
+         </font>
+      </Text>
+      <Text layoutX="207.0" layoutY="453.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataques normales">
+         <font>
+            <Font name="Eras Medium ITC" size="19.0" />
+         </font>
+      </Text>
+      <Text layoutX="901.0" layoutY="453.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataques normales">
+         <font>
+            <Font name="Eras Medium ITC" size="19.0" />
+         </font>
+      </Text>
+      <Text layoutX="897.0" layoutY="624.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ataques especiales">
+         <font>
+            <Font name="Eras Medium ITC" size="19.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="ataquesEspecialesJ2" layoutX="756.0" layoutY="637.0" prefHeight="82.0" prefWidth="441.0" />
+      <Text fx:id="puntajeJ2" fill="#038a6f" layoutX="923.0" layoutY="590.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0 de 200">
+         <font>
+            <Font name="Harrington" size="29.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="ataquesNormalesJ2" layoutX="756.0" layoutY="471.0" prefHeight="82.0" prefWidth="441.0" />
+      <Button layoutX="880.0" layoutY="363.0" mnemonicParsing="false" onAction="#generarAtaqueJ2" prefHeight="47.0" prefWidth="190.0" text="GENERAR ATAQUE">
+         <font>
+            <Font name="Elephant" size="15.0" />
+         </font>
+      </Button>
+      <ImageView fx:id="fotoArte1J2" fitHeight="117.0" fitWidth="142.0" layoutX="735.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="fotoArte2J2" fitHeight="117.0" fitWidth="142.0" layoutX="904.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="fotoArte3J2" fitHeight="117.0" fitWidth="142.0" layoutX="1076.0" layoutY="213.0" pickOnBounds="true" preserveRatio="true" />
+      <Button layoutX="570.0" layoutY="253.0" mnemonicParsing="false" onAction="#pelear" prefHeight="73.0" prefWidth="117.0" text="PELEAR">
+         <font>
+            <Font name="Elephant" size="15.0" />
+         </font>
+      </Button>
+      <Button layoutX="570.0" layoutY="350.0" mnemonicParsing="false" onAction="#reasignarj1" prefHeight="73.0" prefWidth="117.0" text="REASIGNAR J1">
+         <font>
+            <Font name="Elephant" size="11.0" />
+         </font>
+      </Button>
+      <Button layoutX="570.0" layoutY="447.0" mnemonicParsing="false" onAction="#reasignarj2" prefHeight="73.0" prefWidth="117.0" text="REASIGNAR J2">
+         <font>
+            <Font name="Elephant" size="11.0" />
+         </font>
+      </Button>
+      <Text layoutX="199.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JUGADOR 1" textAlignment="CENTER">
+         <font>
+            <Font name="Georgia" size="30.0" />
+         </font>
+      </Text>
+      <Text layoutX="925.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JUGADOR 2" textAlignment="CENTER">
+         <font>
+            <Font name="Georgia" size="30.0" />
+         </font>
+      </Text>
+      <Text layoutX="1223.0" layoutY="38.0" onMouseClicked="#cerrar" strokeType="OUTSIDE" strokeWidth="0.0" text="X">
+         <font>
+            <Font name="Bodoni MT Black" size="32.0" />
+         </font>
+      </Text>
+      <Text layoutX="551.0" layoutY="588.0" strokeType="OUTSIDE" strokeWidth="0.0" text="El ganador es" textAlignment="CENTER">
+         <font>
+            <Font name="Cooper Black" size="23.0" />
+         </font>
+      </Text>
+      <Text fx:id="ganador" layoutX="552.0" layoutY="626.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER">
+         <font>
+            <Font name="Cooper Black" size="23.0" />
+         </font>
+      </Text>
+   </children>
+</Pane>
